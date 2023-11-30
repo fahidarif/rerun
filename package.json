@@ -1,11 +1,25 @@
 {
   "name": "rerun.js",
   "version": "1.1.1",
-  "description": "",
+  "description": "Perfect light-weight & asynchronious package for asynchroniously retry/rerun of any logic...",
   "main": "index.js",
+  "author": "fahidarif@gmail.com",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahidarif/rerun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fahidarif/rerun/issues"
+  },
+  "homepage": "https://github.com/fahidarif/rerun#readme",
   "keywords": [
     "retry",
     "rerun.js",
@@ -19,6 +33,5 @@
     "re-run",
     "js"
   ],
-  "author": "",
   "license": "ISC"
 }

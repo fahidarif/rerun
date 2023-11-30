@@ -1,13 +1,13 @@
 ## rerun.js
 
-### Perfect light-weight & asynchronious package for asynchroniously retrying of any logic...
+### Perfect light-weight & asynchronious package for asynchroniously retry/rerun of any logic...
 
 
 ## Features
 - Calls any logic in with fixed max number of retrying/rerun buffer.
-- Asynchroniously call the logic with capacity to acll unlimited time of retrying untill the positive response.
+- Asynchroniously call the logic with capacity to acll unlimited time of retry/rerun untill the positive response.
 - Can be adjusted with at what particular delay in (MS) we want to retry.
-- Logs the details of retrying causes.
+- Logs the details of retries causes.
 
 
 ### Usage
