@@ -1,5 +1,5 @@
 {
-  "name": "rerun.js",
+  "name": "async-rerun",
   "version": "1.1.1",
   "description": "Perfect light-weight & asynchronious package for asynchroniously retry/rerun of any logic...",
   "main": "index.js",
@@ -25,11 +25,15 @@
     "rerun.js",
     "retry.js",
     "retry async",
+    "retry-async",
     "async",
     "aync rerun logic",
     "attempt",
     "re-attempt",
     "re-try",
+    "rerun-async",
+    "async-retry",
+    "async-rerun",
     "re-run",
     "js"
   ],
